@@ -82,4 +82,8 @@ This project provides a comprehensive exploration of the American higher educati
 ---
 
 ## Collaborators: 
-Prudhvi Lanke, Rishabh Anand, Gaurangi Agrawal, Yu Chun Su, Pei-Hsin Yang. 
+- Gaurangi Agrawal
+- Pei-Hsin Yang
+- Prudhvi Lanke
+- Rishabh Anand
+- Yu Chun Su
